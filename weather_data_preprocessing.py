@@ -132,4 +132,4 @@ def null_report(df:DataFrame) -> DataFrame:
     df_null_rep = pd.DataFrame({'variables':column_names,
                                 'null_values': null_percentage})
 
-    return df
+    return df_null_rep
