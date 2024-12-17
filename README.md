@@ -7,4 +7,4 @@ Public repository from data preprocessing and processing of public precipitation
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14507288.svg)](https://doi.org/10.5281/zenodo.14507288)
 
-**Please cite this repo as: ** Juan Sebastian Blandon. (2024). jsblandon/weather_data_uy_preprocessing: Uruguay Weather Data Treatment (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14507288
+**Please cite this repo as:** Juan Sebastian Blandon. (2024). jsblandon/weather_data_uy_preprocessing: Uruguay Weather Data Treatment (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.14507288
