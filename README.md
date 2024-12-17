@@ -1,4 +1,4 @@
-# Uruguay Weather Treatment 🌦️💻📈
+# Uruguay Weather Data Treatment 🌦️💻📈
 Public repository from data preprocessing and processing of public precipitation data  from [Instituto Uruguayo de Meteorología (INUMET)](https://www.inumet.gub.uy/). The processed data covers the period from 1981 to 2010.
 
 ## In this repo you will find
